@@ -1,0 +1,20 @@
+# Write a program that displays the following information:
+# Your name, Full address, Mobile number, College name, Course subjects.
+print('Enter your details')
+name = input('Name: ')
+address = input('Address: ')
+mobile_number = input('Mobile Number: ')
+college_name = input('College Name: ')
+course_name = input('Course Name: ')
+print('My personal details are')
+print(name)
+print(address)
+print(mobile_number)
+print(college_name)
+print(course_name)
+print('Course Subjects are')
+print('\t Python')
+print('\t Computer Networks')
+print('\t Design and Analysis of Algorithm')
+print('\t Automata Theory')
+
